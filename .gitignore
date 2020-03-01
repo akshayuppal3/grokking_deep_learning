@@ -1,0 +1,28 @@
+# MacOS
+.DS_Store
+
+# Editor
+.vscode/
+
+# Generated 
+build/
+pcs.egg-info/
+
+# Python 
+*.pyc
+*.ipynb_checkpoints
+.pytest_cache/
+
+# Logs
+*.log
+
+conda-pkgs*
+
+# Pycharm/Intellij
+*.iml
+*.idea/
+*.ipynb
+
+
+.cache/
+venv/
