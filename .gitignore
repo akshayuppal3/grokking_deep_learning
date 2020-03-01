@@ -20,7 +20,7 @@ conda-pkgs*
 
 # Pycharm/Intellij
 *.iml
-*.idea/
+.idea/
 *.ipynb
 
 
